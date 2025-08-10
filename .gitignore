@@ -8,10 +8,6 @@ __pycache__/
 src/headertoyaml
 test/headertoyaml
 
-# Ignore all outputs except sample/demo files
-output/*
-!output/sample_*
-
 # Ignore virtual environment directories
 venv/
 .venv/

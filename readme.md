@@ -92,5 +92,5 @@ For example - to run this test on `c.add.yaml` file under the folder `C` :-
 ```
 
 ##  Developed on
-# -Python 3.13.5
-# -GCC 15.1.1
+- Python 3.13.5
+- GCC 15.1.1
